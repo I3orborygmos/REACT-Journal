@@ -15,7 +15,7 @@ export default [
         mapLink:'https://maps.app.goo.gl/fCAiabrEWu7c2BYs7',
         title:'Yellowstone',
         travelDate:'8/2008',
-        description:'Went to Yellow stone close to the begining of August right before school started. It was mating season for the Buffalo so me and my family saw many of them both off and on the roads surrounding Yellowstone. Most memorable part was seeing the gysters and the sulfur pools. However nothing compares to seeing a small female Park Ranger scare off a Hungry bear form a campsite. Still takled about among my family to this day.',
+        description:'Went to Yellow stone close to the begining of August right before school started. It was mating season for the Buffalo so me and my family saw many of them both off and on the roads surrounding Yellowstone. Most memorable part was seeing the gysters and the sulfur pools. However nothing compares to seeing a small female Park Ranger scare off a Hungry bear form a campsite. Still talked about among my family to this day.',
     },
     {
         id:3,
